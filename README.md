@@ -1,6 +1,15 @@
-### Hi there 👋
+![profile main](https://pixel-profile.vercel.app/api/github-stats?username=janekbaraniewski&hide=contributions,rank&theme=road_trip&include_all_commits=true&pixelate_avatar=false)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janekbaraniewski&show_icons=true&theme=dark)
+<!---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,go,py,ts,prometheus,grafana,terraform,aws,gcp" /> &nbsp and many more...
+</p>
+--->
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janekbaraniewski&theme=dark&exclude=Smarty" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janekbaraniewski&theme=dark&exclude=Smarty" />
+</p>
 
 <!--
 **janekbaraniewski/janekbaraniewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
