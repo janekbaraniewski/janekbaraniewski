@@ -1,5 +1,6 @@
+<!--- 
 ![profile main](https://pixel-profile.vercel.app/api/github-stats?username=janekbaraniewski&hide=contributions,rank&theme=road_trip&include_all_commits=true&pixelate_avatar=false)
-
+--->
 <!---
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kubernetes,docker,go,py,ts,prometheus,grafana,terraform,aws,gcp" /> &nbsp and many more...
